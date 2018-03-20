@@ -1,3 +1,3 @@
-*Relatório*
+# Relatório
 
 Comecei a fazer o código só. Depois fui me baseando em alguns gits pois não estava conseguindo a pensa em um logica que funcionasse. Com a ajudo do “Google” consegui formar a matriz com as letras organizadas e separar as letras da mensagem em duplas, porém só funcionava com uma palavra sem espaço e tinhas uns bugs, com ajuda de Calebe Tavares consegui tirar os bugs do X e Z e das letras iguais, e os espaços sendo possível cifrar frases com espaços. Depois disso foi a hora de cifrar a mensagem, foi onde tive maior dificuldade, depois de várias tentativas foi estudando alguns códigos que achei e consegui. Fazia muito tempo que não programava, essa atividade me castigou um pouco e me fez ser mais proativo. O tempo de atividade foi cerca de 5 horas não seguidas. 
