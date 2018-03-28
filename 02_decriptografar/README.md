@@ -4,5 +4,5 @@ Ajudei na criação da lógica junto com meu colega [Calebe Tavares](https://git
 
 #### Chave: ALUNOUFC
 
-#### A Frase descriptografada:
+#### Frase descriptografada:
 Maria meu amor,hoje vamos jantar a luz de velas e vou te fazer um grande pedido prepare-se, mas antes, tenho que fazer o trabalho de poo de um professor sem noção, um tal de cifra de Vigenere.
