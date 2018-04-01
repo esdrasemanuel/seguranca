@@ -1,9 +1,9 @@
 - 04_gpg
-Cria a chave:
-    gpg --gen-key
-colocar foto
-gpg --edit-key XXXXXXX
-addphoto
+Cria a chave: <br>
+    gpg --gen-key< br>
+colocar foto <br>
+gpg --edit-key XXXXXXX <br>
+addphoto <br>
 Em seguida adicionar o caminho para sua foto:
 
 
