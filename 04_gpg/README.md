@@ -6,11 +6,8 @@ gpg --edit-key XXXXXXX <br>
 addphoto <br>
 Em seguida adicionar o caminho para sua foto: <br>
 /home/user/dir/dir/foto.jpg <br>
-......continua
+- importar a chave:
 
-
-- criar, colocar foto e publicar sua chave no servidor remoto
-- importar a chave de outra pessoa do servidor remoto
 - enviar uma mensagem assinada em texto plano
 - enviar um arquivo .doc com assinatura em arquivo anexo
 - enviar um mensagem de texto criptografada em texto plano
