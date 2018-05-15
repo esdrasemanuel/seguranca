@@ -46,3 +46,58 @@ Existem diversas comunidades Snort, incluindo a comunidade snort-BR no Brasil, c
 
 ## PRATICA
 
+Detecção de simulação de ataque com snort
+
+### Recursos utilizados
+1 máquina virtual em modo bridge com linux onde será instalado o snort
+1 máquina virtual em modo bridge com windows onde será instalado o software de simulação de ataque(LOIC)
+
+## Passo-a-passo (Máquina linux)
+1 – Antes de instalar o snort certifique-se de atualizar seu sistema.
+```
+sudo apt update && sudo apt upgrade
+```
+2 – Instale o snort.
+```
+	sudo apt install snort
+ ```
+3 – Na instalação vai pedir para você definir sua rede, coloque o ip da máquina virtual.
+
+4 – Restart o serviço.
+```
+	service snort restart
+ ```
+5 – Para monitar a rede basta dar o comando:
+```
+snort -v
+```
+6 – Vá ao arquivo de configuração do snort:
+```
+nano /etc/snort/snort.conf
+ ```
+7 – Usar ^W para habilitar modo de escrita e escrever a palavra “HOME”
+
+8 – Trocar “any” pelo ip a ser monitorado (IP da máquina virtual linux)
+
+9 – Restart no serviço:
+```
+	service snort restart
+```
+10 – Deixando o snort em modo de detecção de ataques:
+```
+	snort -q -A console -i (interface do IP) -c /etc/snort/snort.conf
+```
+
+11 – Nessa forma o snort está esperando algum tipo de anomalia acontecer.
+
+## Passo-a-passo	(Máquina Windows)
+
+1 – Baixar o simular de ataque (LOIC) no seguinte link:
+	https://sourceforge.net/projects/loic/
+ 
+ 
+2 – Executar o programa, colocar método como TCP e no compo de URL colocar o IP da vítima (IP máquina linux)
+
+
+3 – O snort vai capturar o ataque na máquina linux e mostrar informações como data, hora IP do atacante e IP do atacado,
+
