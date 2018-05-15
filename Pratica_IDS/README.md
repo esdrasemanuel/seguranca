@@ -43,3 +43,6 @@ Existem diversas comunidades Snort, incluindo a comunidade snort-BR no Brasil, c
 - Desde 2003 , o Serpro utiliza essa ferramenta devido a sua grande flexibilidade
 - Outras empresas também utilizam, tais como: Tigra, Sebrae, Submarino dentre outras.
 
+
+## PRATICA
+
