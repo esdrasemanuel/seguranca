@@ -1,3 +1,4 @@
+![alt text](Pratica_IDS/index.png "Description goes here")
 # Tema:  IDS (Intrusion Detection System)
 ## Prática: Capturando simulação de ataque com Snort
 ### Professor: David Senna
