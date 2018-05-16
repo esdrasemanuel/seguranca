@@ -1,4 +1,4 @@
-![](img/index.png "width=100")
+![](img/index.png width=100)
 # Tema:  IDS (Intrusion Detection System)
 ## Prática: Capturando simulação de ataque com Snort
 ### Professor: David Senna
