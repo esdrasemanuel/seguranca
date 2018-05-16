@@ -1,5 +1,4 @@
-![](img/index.png =100x20)
-<img src="img/index.png" alt="drawing" style="width: 200px;"/>
+<img src="img/index.png" style="width: 200px;"/>
 
 
 # Tema:  IDS (Intrusion Detection System)
