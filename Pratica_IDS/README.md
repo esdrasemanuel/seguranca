@@ -1,7 +1,7 @@
 <div align="center"><img src="img/index.png" alt="" style="width:80; height:85px;"/></div>
 
 <div align="center">
-# Tema:  IDS (Intrusion Detection System)
+<title>Tema:  IDS (Intrusion Detection System)</title>
 ## Prática: Capturando simulação de ataque com Snort
 ### Professor: David Senna
  Alunos: <br>
