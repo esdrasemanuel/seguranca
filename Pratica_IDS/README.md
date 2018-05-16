@@ -1,9 +1,9 @@
 <div align="center"><img src="img/index.png" alt="" style="width:80; height:85px;"/></div>
 
 <div align="center">
-<title>Tema:  IDS (Intrusion Detection System)</title>
-## Prática: Capturando simulação de ataque com Snort
-### Professor: David Senna
+<title>Tema:  IDS (Intrusion Detection System)</title> <br>
+ Prática: Capturando simulação de ataque com Snort <br>
+ Professor: David Senna <br>
  Alunos: <br>
  [Esdras Emanuel Mariano Moreira](https://github.com/esdrasemanuel/) <br>
  [Jefferson Costa Severo](https://github.com/jefferson/) </div>
