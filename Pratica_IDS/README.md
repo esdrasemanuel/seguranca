@@ -1,7 +1,7 @@
 <div align="center"><img src="img/index.png" alt="" style="width:80; height:85px;"/></div>
 
 <div align="center">
-<h1>Tema:  IDS (Intrusion Detection System)</h1> <br>
+<h1>Tema:  IDS (Intrusion Detection System)<br>
 	Capturando simulação de ataque com Snort</h1><br>
  	<h2>Professor: David Senna </h2><br>
  	<h3>Alunos: <br>
