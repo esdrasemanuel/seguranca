@@ -10,8 +10,8 @@
  
  
 ## Objetivos
-Esse trabalho tem como principal objetivo explicar os conceitos e variantes sobre os mecanismos de 
-detecção de intrusão, suas aplicações dentro do ambiente de segurança da informação, e por fim mostrar uma pequena prática de simulação de ataque e captura com um software de IDS (Snort)
+<p>Esse trabalho tem como principal objetivo explicar os conceitos e variantes sobre os mecanismos de 
+detecção de intrusão, suas aplicações dentro do ambiente de segurança da informação, e por fim mostrar uma pequena prática de simulação de ataque e captura com um software de IDS (Snort)</p>
 
 
 ## O que é um IDS?
