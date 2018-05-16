@@ -15,22 +15,22 @@ detecção de intrusão, suas aplicações dentro do ambiente de segurança da i
 
 
 ## O que é um IDS?
-Um IDS (Intrusion Detection System) é um mecanismo que ouve o tráfego da rede de maneira furtiva , para localizar atividades anormais ou suspeitas , permitindo assim previnir os riscos da invasão.
+<p>Um IDS (Intrusion Detection System) é um mecanismo que ouve o tráfego da rede de maneira furtiva , para localizar atividades anormais ou suspeitas , permitindo assim previnir os riscos da invasão.</p>
 
 
 ## Por que usar um IDS?
-Com o aumento e evolução das redes, empresas começaram a colocar suas informações em rede, no entanto, essas informações não existem mais só internamente, também vão estar externamente por meio da internet. Com isso ouve uma necessidade de maior segurança, e o IDS permite monitorar a rede e receber notificações conforme regras específicas.
+<p>Com o aumento e evolução das redes, empresas começaram a colocar suas informações em rede, no entanto, essas informações não existem mais só internamente, também vão estar externamente por meio da internet. Com isso ouve uma necessidade de maior segurança, e o IDS permite monitorar a rede e receber notificações conforme regras específicas.</p>
 
 
 ## Tipos de IDS
--Existem dois tipos de IDS: O de rede (N-IDS) esse tipo monitora toda a rede a partir da pespectiva do local em que a ferramenta foi instalada, e o de host (H-IDS) esse por sua vez monitora apenas atividade anormais no que tange o funcionamento da máquina.
+<p>Existem dois tipos de IDS: O de rede (N-IDS) esse tipo monitora toda a rede a partir da pespectiva do local em que a ferramenta foi instalada, e o de host (H-IDS) esse por sua vez monitora apenas atividade anormais no que tange o funcionamento da máquina.</p>
 
 ## O SNORT
-O snort é um IDS baseado em rede(N-IDS) desenvolvido por Martin Roesch capaz de  desenvolver análise de tráfego em tempo real e registro de pacotes em rede. O Snort é essencial para a sua rede de computadores , pois ele ajuda a controlá-la e a gerenciar melhor todos os dados.
-Executa análise de protocolo, busca e associa padrões de conteúdo e pode ser usado para detectar uma variedade de ataques , tais como buffer overflow, stealth port scans , ataques CGI, SMB probes, OS fingerprinting, entre outras. Esta ferramenta é suportada em arquiteturas RISC e CISC e em plataformas das mais diversas.
+<p>O snort é um IDS baseado em rede(N-IDS) desenvolvido por Martin Roesch capaz de  desenvolver análise de tráfego em tempo real e registro de pacotes em rede. O Snort é essencial para a sua rede de computadores , pois ele ajuda a controlá-la e a gerenciar melhor todos os dados.
+Executa análise de protocolo, busca e associa padrões de conteúdo e pode ser usado para detectar uma variedade de ataques , tais como buffer overflow, stealth port scans , ataques CGI, SMB probes, OS fingerprinting, entre outras. Esta ferramenta é suportada em arquiteturas RISC e CISC e em plataformas das mais diversas.</p>
 
 ### Comunidade
-Existem diversas comunidades Snort, incluindo a comunidade snort-BR no Brasil, cujo site é www.snort.com.br. Atualmente, existem mais de 400 milhões de usuários registrados na comunidade americana com mais de 4 milhões de downloads.
+<p>Existem diversas comunidades Snort, incluindo a comunidade snort-BR no Brasil, cujo site é www.snort.com.br. Atualmente, existem mais de 400 milhões de usuários registrados na comunidade americana com mais de 4 milhões de downloads.</p>
 
 ### Vantagens
 - Muito flexível
