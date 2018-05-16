@@ -1,4 +1,4 @@
-![alt text](img/index.png "Description goes here")
+![alt text](img/index.png =250x250)
 # Tema:  IDS (Intrusion Detection System)
 ## Prática: Capturando simulação de ataque com Snort
 ### Professor: David Senna
