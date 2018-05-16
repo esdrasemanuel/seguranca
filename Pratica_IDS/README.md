@@ -1,4 +1,4 @@
-<img src="img/index.png" align="center" style="width: 80px;"/>
+<div align="center"><img src="img/index.png" style="width: 80px;"/></div>
 
 
 # Tema:  IDS (Intrusion Detection System)
