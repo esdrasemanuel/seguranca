@@ -8,9 +8,9 @@ Fiz os testes com  o link que a dupla diponibilizou, primeito tiver que instalar
 
 Agora podemos ver as tabelas dessa base de dados:
 
-
 <div align="center"><img src="img/02.png" alt="" style="width:80; height:85px;"/></div>
 
+Com as tabelas descobertas, agora podemos ver as colunas das mesmas:
 
-
+<div align="center"><img src="img/03.png" alt="" style="width:80; height:85px;"/></div>
 
