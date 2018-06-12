@@ -76,7 +76,7 @@ snort -v
 ```
 6 – Vá ao arquivo de configuração do snort:
 ```
-nano /etc/snort/snort.conf
+sudo nano /etc/snort/snort.conf
  ```
 7 – Usar ^W para habilitar modo de escrita e escrever a palavra “HOME”
 
@@ -84,7 +84,7 @@ nano /etc/snort/snort.conf
 
 9 – Restart no serviço:
 ```
-	service snort restart
+	sudo service snort restart
 ```
 10 – Deixando o snort em modo de detecção de ataques:
 ```
