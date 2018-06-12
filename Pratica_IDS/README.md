@@ -15,7 +15,7 @@ detecção de intrusão, suas aplicações dentro do ambiente de segurança da i
 
 
 ## O que é um IDS?
-<p>Um IDS (Intrusion Detection System) é um mecanismo que ouve o tráfego da rede de maneira furtiva , para localizar atividades anormais ou suspeitas , permitindo assim previnir os riscos da invasão.</p>
+<p>Um IDS (Intrusion Detection System) é um mecanismo que ouve o tráfego da rede de maneira oculta , para localizar atividades anormais ou suspeitas , permitindo assim previnir os riscos da invasão.</p>
 
 
 ## Por que usar um IDS?
