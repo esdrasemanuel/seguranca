@@ -29,6 +29,13 @@ detecção de intrusão, suas aplicações dentro do ambiente de segurança da i
 <p>O snort é um IDS baseado em rede(N-IDS) desenvolvido por Martin Roesch capaz de  desenvolver análise de tráfego em tempo real e registro de pacotes em rede. O Snort é essencial para a sua rede de computadores , pois ele ajuda a controlá-la e a gerenciar melhor todos os dados.
 Executa análise de protocolo, busca e associa padrões de conteúdo e pode ser usado para detectar uma variedade de ataques , tais como buffer overflow, stealth port scans , ataques CGI, SMB probes, OS fingerprinting, entre outras. Esta ferramenta é suportada em arquiteturas RISC e CISC e em plataformas das mais diversas.</p>
 
+O Snort pode ser utilizado de 3 formas:
+
+    Captura de pacotes
+    Analisado de tráfego de rede (Sniffer)
+    Sistema completo de detecção de intrusão em redes.
+
+
 ### Comunidade
 <p>Existem diversas comunidades Snort, incluindo a comunidade snort-BR no Brasil, cujo site é www.snort.com.br. Atualmente, existem mais de 400 milhões de usuários registrados na comunidade americana com mais de 4 milhões de downloads.</p>
 
