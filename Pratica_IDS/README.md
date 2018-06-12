@@ -66,6 +66,12 @@ sudo apt update && sudo apt upgrade
  ```
 3 – Na instalação vai pedir para você definir sua rede, coloque o ip da máquina virtual.
 
+<div align="center"><img src="img/01pratica.png" alt="" style="width:80; height:85px;"/></div>
+Aqui irá perdir a interface de rede:
+<div align="center"><img src="img/02pratica.png" alt="" style="width:80; height:85px;"/></div>
+Depois é so definior o ip
+<div align="center"><img src="img/03pratica.png" alt="" style="width:80; height:85px;"/></div>
+
 4 – Restart o serviço.
 ```
 	service snort restart
@@ -79,6 +85,8 @@ snort -v
 sudo nano /etc/snort/snort.conf
  ```
 7 – Usar ^W para habilitar modo de escrita e escrever a palavra “HOME”
+
+<div align="center"><img src="img/04pratica.png" alt="" style="width:80; height:85px;"/></div>
 
 8 – Trocar “any” pelo ip a ser monitorado (IP da máquina virtual linux)
 
