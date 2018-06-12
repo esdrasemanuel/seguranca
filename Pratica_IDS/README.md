@@ -5,8 +5,8 @@
 	Capturando simulação de ataque com Snort</h1><br>
  	<h2>Professor: David Senna </h2><br>
  	<h3>Alunos: <br>
- 	 [Esdras Emanuel Mariano Moreira](https://github.com/esdrasemanuel/) <br>
- 	 [Jefferson Costa Severo](https://github.com/jeffersonsevero/) <br></h3></div>
+ 	 (Esdras Emanuel Mariano Moreira)[https://github.com/esdrasemanuel/] <br>
+ 	 (Jefferson Costa Severo)[https://github.com/jeffersonsevero/] <br></h3></div>
  
  
 ## Objetivos
