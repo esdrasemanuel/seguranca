@@ -7,6 +7,8 @@ Instalei o dvwa no ubuntu server, tive um problema com o PHP, mas com a ajudar d
 Pagina inicial do SVWA:
 <div align="center"><img src="img/xss01.png" alt="" style="width:80; height:85px;"/></div>
 
+Tela inicial do BEEF
+
 <div align="center"><img src="img/xss02.png" alt="" style="width:80; height:85px;"/></div>
 
 <div align="center"><img src="img/xss03.png" alt="" style="width:80; height:85px;"/></div>
