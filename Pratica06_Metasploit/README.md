@@ -4,6 +4,9 @@ Na Sala de aula eu acompanhei a pratica até a parte de criação do Trojan, por
 
 <div align="center"><img src="img/meta01.png" alt="" style="width:80; height:85px;"/></div>
 
-Depois fiz os teste e conseguir obter captura de telas da maquina atacada:
+Com o .exe feito, executei e ocorreu a comunicação:
 
 <div align="center"><img src="img/meta02.png" alt="" style="width:80; height:85px;"/></div>
+
+
+Depois fiz os teste e conseguir obter captura de telas da maquina atacada:
