@@ -4,3 +4,10 @@ Foi gerado o APK e testado no celular da minha avó. fiz todos os passo conforme
 
 <div align="center"><img src="img/bac01.png" alt="" style="width:80; height:85px;"/></div>
 
+<div align="center"><img src="img/bac02.jpeg" alt="" style="width:80; height:85px;"/></div>
+
+<div align="center"><img src="img/bac03.jpeg" alt="" style="width:80; height:85px;"/></div>
+<div align="center"><img src="img/bac04.png" alt="" style="width:80; height:85px;"/></div>
+
+
+
